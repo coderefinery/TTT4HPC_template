@@ -7,10 +7,23 @@ Real-life compute cluster workflows
    the planning HackMD (not linked here, check on CodeRefinery chat)
    for the current planning.
 
+.. admonition:: Course instance in early 2023
+
+   You can follow the dates this course is given on the `course page
+   <https://scicomp.aalto.fi/training/scip/workflows-2023/>`__.
+   Dates are not yet known and registration is not yet open, though.
+
 Improve your cluster workflows!  You've had a basic course on working
 with a cluster - but what do people *actually* do? This course shows
 practical examples and tips which may help you, but aren't usually
 covered in either basic or advanced courses.
+
+We won't go so deep into each topic that you know everything about it,
+but you learn what is possible, see some examples, and know where to
+follow up on the tools that are right for *you*.  The format is
+designed to be "fireside chat with experts", a combination of demos,
+type-along, and independent exercises.  You can engage at different
+levels, depending on your interest.
 
 .. prereq::
 
@@ -61,7 +74,12 @@ Who is the course for?
 ----------------------
 
 This course is for people using clusters or other larger computing
-resources.  It's not a basic course, but
+resources.  It's not a basic course, but also not extremely advanced.
+It lets you see some examples and know what people actually do, and
+then you can follow up with more reading, courses, or direct help
+later on.
+
+Some learner personas:
 
 - You've just taken a basic HPC course, and while you mostly
   understand how the basic pices work, you are left wondering *"How
