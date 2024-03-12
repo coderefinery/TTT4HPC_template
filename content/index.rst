@@ -1,5 +1,5 @@
-Real-life compute cluster workflows
-===================================
+Tuesdays tools and techniques for HPC
+======================================
 
 .. warning::
 
@@ -7,7 +7,7 @@ Real-life compute cluster workflows
    the planning HackMD (not linked here, check on CodeRefinery chat)
    for the current planning.
 
-.. admonition:: Course instance in early 2023
+.. admonition:: Course instance in April 2024
 
    You can follow the dates this course is given on the `course page
    <https://scicomp.aalto.fi/training/scip/workflows-2023/>`__.
